@@ -20,7 +20,7 @@ BITS is a Windows Forms application developed using C# and .NET that provides a 
 - **Language:** C# 
 - **Framework:** .NET 8.0
 - **UI Framework:** Windows Forms
-- **Development Environment:** Visual Studio / Cursor
+- **Development Environment:** Visual Studio 
 - **Version Control:** Git
 
 ## Installation and Setup
